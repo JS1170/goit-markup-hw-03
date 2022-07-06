@@ -417,6 +417,11 @@ li {
         margin-right: 50px;
 }
 
+
+.header-link:last-child {
+        margin-right: 0;
+}
+
 .header-list-nav {
         display: block;
         padding-top: 32px;
@@ -580,7 +585,6 @@ li {
 } 
 
 .details-title {
-                margin-top: 94px;
                 margin-bottom: 10px;
                 font-weight: 700;
                 font-size: 14px;
@@ -663,7 +667,6 @@ li {
 .allteam {
         display: flex;
         flex-wrap: wrap;
-        padding-bottom: 94px;
 }
 
 
